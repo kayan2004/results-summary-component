@@ -137,7 +137,7 @@ button:hover {
     font-family: hanken;
   }
   .container {
-    transform: scale(0.75);
+    transform: scale(0.76);
     display: flex;
     justify-content: center;
     align-items: center;
